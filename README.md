@@ -1,0 +1,2 @@
+# stanford_machine_learning_project_assigment_by_andrew_ng
+stanford_machine_learning_project_assigment_course_by_andrew_ng
